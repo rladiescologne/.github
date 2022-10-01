@@ -1,1 +1,1 @@
-# Welcome to R-Ladies Cologne 👋
+# Welcome to R-Ladies Cologne <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px"> <img src='rladies_cologne_logo.png' align="right" height="139" />  
