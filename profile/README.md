@@ -16,7 +16,7 @@ On this GitHub, you'll find repositories of past events including:
    - [Bringing your plots to cloud nine with {plotnine}](https://github.com/rladiescologne/plotnine) 👩🏻‍🎨
 - [R for Bioinformatics](https://github.com/rladiescologne/R-for-Bioinformatics) 🧬
 - [Using R for regular expressions](https://github.com/rladiescologne/Using-R-for-Regular-Expressions) 💬
-- [Preparing for the wild - Tips and tricks how to make your application a success](https://youtu.be/uwJAwpFfZjU) 👩🏼‍💼
+- [Preparing for the wild - Tips and tricks on how to make your application a success](https://youtu.be/uwJAwpFfZjU) 👩🏼‍💼
 
 # Where to find us?
 - 🐥 [Twitter](https://twitter.com/rladies_cologne)
