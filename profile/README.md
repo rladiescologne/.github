@@ -20,3 +20,4 @@ On this GitHub, you'll find repositories of past events including:
 
 # Where to find us?
 - 🐥 [Twitter](https://twitter.com/rladies_cologne)
+- 👩‍💼 [LinkedIn](https://www.linkedin.com/company/r-ladies-cologne/)
