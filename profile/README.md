@@ -21,5 +21,6 @@ On this GitHub, you'll find repositories of past events including:
 - [Preparing for the wild - Tips and tricks on how to make your application a success](https://youtu.be/uwJAwpFfZjU) 👩🏼‍💼
 
 # Where to find us?
-- 🐥 [Twitter](https://twitter.com/rladies_cologne)
+- 🦣 [Mastodon](https://fosstodon.org/@rladies_cologne)
 - 👩‍💼 [LinkedIn](https://www.linkedin.com/company/r-ladies-cologne/)
+- 🐥 [Twitter](https://twitter.com/rladies_cologne)
