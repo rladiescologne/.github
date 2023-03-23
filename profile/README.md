@@ -14,6 +14,8 @@ On this GitHub, you'll find repositories of past events including:
 - R and Python - Bringing the communities together (a series)
    - [Kick off meeting with talks on working bilingually and working with MLflow](https://github.com/rladiescologne/r-and-python-bridging-communities)
    - [Bringing your plots to cloud nine with {plotnine}](https://github.com/rladiescologne/plotnine) 👩🏻‍🎨
+   - [Automating Workflows with GitHub Actions and Quarto](https://github.com/angelicambg/GHA_r_py_q) 🤖
+   - [autoML with H2O](https://github.com/h2oai/h2o-meetups/tree/master/2023_02_17_RPyLadies_CologneParis_H2OAutoML) 🧠
 - [R for Bioinformatics](https://github.com/rladiescologne/R-for-Bioinformatics) 🧬
 - [Using R for regular expressions](https://github.com/rladiescologne/Using-R-for-Regular-Expressions) 💬
 - [Preparing for the wild - Tips and tricks on how to make your application a success](https://youtu.be/uwJAwpFfZjU) 👩🏼‍💼
