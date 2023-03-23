@@ -11,7 +11,7 @@ The chapter is run by [Cosima Meyer](https://twitter.com/cosima_meyer) and [Gabe
 
 On this GitHub, you'll find repositories of past events including:
 
-- R and Python - Bringing the communities together (a series)
+- R-Ladies 💜 PyLadies - Bringing the communities together (a series)
    - [Kick off meeting with talks on working bilingually and working with MLflow](https://github.com/rladiescologne/r-and-python-bridging-communities)
    - [Bringing your plots to cloud nine with {plotnine}](https://github.com/rladiescologne/plotnine) 👩🏻‍🎨
    - [Automating Workflows with GitHub Actions and Quarto](https://github.com/angelicambg/GHA_r_py_q) 🤖
