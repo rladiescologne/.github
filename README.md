@@ -5,7 +5,7 @@
 We are the Cologne chapter of the global [R-Ladies community](https://twitter.com/rladiesglobal) and seek to promote diversity in the R and data science world 💜 
 We believe that everyone can code. If you want to get involved (as a presenter or organizer), feel free to reach out! 
 
-The chapter is run by [Cosima Meyer](https://twitter.com/cosima_meyer) and [Gabe Winter](https://twitter.com/gbwinter). 
+The chapter is run by [Cosima Meyer](https://twitter.com/cosima_meyer), [Gabe Winter](https://twitter.com/gbwinter) and [Paulina Nemcova]().
 
 ## Past events 💻
 
