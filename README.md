@@ -18,6 +18,5 @@ On this GitHub, you'll find repositories of past events including:
 - [Using R for regular expressions](https://github.com/rladiescologne/Using-R-for-Regular-Expressions) 💬
 - [Preparing for the wild - Tips and tricks on how to make your application a success](https://youtu.be/uwJAwpFfZjU) 👩🏼‍💼
 
-# Where to find us?
-- 🐥 [Twitter](https://twitter.com/rladies_cologne)
-- 👩‍💼 [LinkedIn](https://www.linkedin.com/company/r-ladies-cologne/)
+# Want to reach out or learn more about us?
+👉 [Linktree](https://linktr.ee/rladies_cologne)
