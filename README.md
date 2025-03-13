@@ -5,7 +5,7 @@
 We are the Cologne chapter of the global [R-Ladies community](https://rladies.org/) and seek to promote diversity in the R and data science world 💜 
 We believe that everyone can code. If you want to get involved (as a presenter or organizer), feel free to reach out! 
 
-The chapter is run by [Gabe Winter](), [Sara]() and [Lívia Oliveira]().
+The chapter is run by [Gabe Winter](), [Sara Schiesberg]() and [Lívia Oliveira]().
 
 ## Past events 💻
 
