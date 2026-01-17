@@ -11,7 +11,7 @@ The chapter is run by [Gabe Winter](), [Sara Schiesberg]() and [Lívia Oliveira]
 
 On this GitHub, you'll find repositories of past events including:
 
-- LLMs
+- LLMs Meet R
    - [When LLMs guess, tools know: tool calling in R with ellmer](https://github.com/hypebright/rladies-cologne-tool-caling)
 - Package development made easy (a series)
    - [Kick off meeting introducing the package fusen](https://youtu.be/wAkZvwPK1P4?si=e4XQxeK2-bFtiIqY)
